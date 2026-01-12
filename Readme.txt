@@ -27,4 +27,6 @@ python
 Copy code
 
 ## Notes
+
 This is an academic project developed to explore the application of machine learning in polymer property prediction.
+You can access the working app at https://polymer-property-prediction.streamlit.app/
